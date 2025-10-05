@@ -32,4 +32,5 @@ Donut Chart depicting income distribution by education field
 Identified top and bottom salary groups and attrition patterns
 
 Fully interactive dashboard with filters and slicers for dynamic analysis 
-6. Screenshop link - https://github.com/pradeep7-spec/HR-DASHBOARD/blob/main/HRDASHBOARDPROJECT.JPG
+6. Screenshop link -
+https://github.com/pradeep7-spec/HR-DASHBOARD/blob/main/HRDASHBOARDPROJECT.JPG
